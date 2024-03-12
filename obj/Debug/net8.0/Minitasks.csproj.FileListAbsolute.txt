@@ -1,0 +1,14 @@
+C:\Users\torbj\Documents\Projects  C#\Minitasks\bin\Debug\net8.0\Minitasks.exe
+C:\Users\torbj\Documents\Projects  C#\Minitasks\bin\Debug\net8.0\Minitasks.deps.json
+C:\Users\torbj\Documents\Projects  C#\Minitasks\bin\Debug\net8.0\Minitasks.runtimeconfig.json
+C:\Users\torbj\Documents\Projects  C#\Minitasks\bin\Debug\net8.0\Minitasks.dll
+C:\Users\torbj\Documents\Projects  C#\Minitasks\bin\Debug\net8.0\Minitasks.pdb
+C:\Users\torbj\Documents\Projects  C#\Minitasks\obj\Debug\net8.0\Minitasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\torbj\Documents\Projects  C#\Minitasks\obj\Debug\net8.0\Minitasks.AssemblyInfoInputs.cache
+C:\Users\torbj\Documents\Projects  C#\Minitasks\obj\Debug\net8.0\Minitasks.AssemblyInfo.cs
+C:\Users\torbj\Documents\Projects  C#\Minitasks\obj\Debug\net8.0\Minitasks.csproj.CoreCompileInputs.cache
+C:\Users\torbj\Documents\Projects  C#\Minitasks\obj\Debug\net8.0\Minitasks.dll
+C:\Users\torbj\Documents\Projects  C#\Minitasks\obj\Debug\net8.0\refint\Minitasks.dll
+C:\Users\torbj\Documents\Projects  C#\Minitasks\obj\Debug\net8.0\Minitasks.pdb
+C:\Users\torbj\Documents\Projects  C#\Minitasks\obj\Debug\net8.0\Minitasks.genruntimeconfig.cache
+C:\Users\torbj\Documents\Projects  C#\Minitasks\obj\Debug\net8.0\ref\Minitasks.dll
