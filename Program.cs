@@ -41,6 +41,7 @@ internal class Program
                 // Inform the user they must agree to the TOS to continue!
 
                 Console.WriteLine("You must agree to the terms of service to continue.🤬");
+                Environment.Exit(0); // terminates the program
             }
             // Check if the user agrees to the TOS
             else if (userResponse == "yes")
@@ -55,6 +56,8 @@ internal class Program
             {
                 // Inform the user that their response was invalid and prompt them to restart the program
                 Console.WriteLine("Invalid response.😤 Please restart the program and try again.🫠");
+                Environment.Exit(0); // termintates the program
+
             }
 
             // Task 3: Variable Names and Types🔢
