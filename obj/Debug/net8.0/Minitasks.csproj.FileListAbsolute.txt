@@ -12,3 +12,4 @@ C:\Users\torbj\Documents\Projects  C#\Minitasks\obj\Debug\net8.0\refint\Minitask
 C:\Users\torbj\Documents\Projects  C#\Minitasks\obj\Debug\net8.0\Minitasks.pdb
 C:\Users\torbj\Documents\Projects  C#\Minitasks\obj\Debug\net8.0\Minitasks.genruntimeconfig.cache
 C:\Users\torbj\Documents\Projects  C#\Minitasks\obj\Debug\net8.0\ref\Minitasks.dll
+C:\Users\torbj\Documents\Projects  C#\Minitasks\obj\Debug\net8.0\Minitasks.sourcelink.json
