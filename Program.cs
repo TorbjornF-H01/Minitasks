@@ -1,4 +1,4 @@
-﻿// ______________________________________________🍕🍕MiniTasks🍕🍕__________________________________________________
+﻿// ___________________________________________🍕🍕MiniTasks🍕🍕__________________________________________________
 //            Oh wow So many comments             😋😋 😋😋                     due 18 march
 //____________________________________________🍕🍕MiniTasks🍕🍕__________________________________________________
 
@@ -27,6 +27,7 @@ internal class Program
         // Inform the user they must be at least 18 years old to use the service
         {
             Console.WriteLine("You must be 18 years old to use this service.");
+            Environment.Exit(0); // terminates the program
         }
         else
         {// Ask the user if they agree with the TOS
@@ -117,6 +118,7 @@ internal class Program
 
         // Displaying the result 🥳🎉🎊
         Console.WriteLine($"The result of {num1} {operation} {num2} is {result}.👏");
+        Console.WriteLine("Have a nice day " + userName + "😀");
 
 
     }
