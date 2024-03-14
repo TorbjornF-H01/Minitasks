@@ -77,7 +77,7 @@ internal class Program
         Console.Write("Enter the first number: ");
         double num1 = Convert.ToDouble(Console.ReadLine());
 
-        // asks for the operator ➕➖➗✖️ emojis
+        // asks for the operator ➕➖➗✖️ emojis is cool
         Console.Write("Enter the math operator symbol (+, -, /, *): ");
         char operation = Console.ReadKey().KeyChar; //user input
         Console.WriteLine();  // Move to the next line
@@ -125,3 +125,6 @@ internal class Program
 }
 
 //____________________________________________🎉END of Minitasks🎉_______________________________________________
+
+// Notes to self after these tasks, overdid the comments, already learned how to do it better in the microsoft learn/freecodecamp but keeping it like this to see progress.
+//found a way to exit the program with Environment.Exit(0) after tos check, is there antoher way. maybe loop back to the start.
